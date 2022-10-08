@@ -7,11 +7,9 @@ I'm a C++ developer interested in most domains that you typically find using the
 
 - I'm currently pursuing a C++ software development role as we have decided to sell the patents and hardware/software. We're not talking retirement price tags, so I'm not going to be heading off into the sunset any time soon.
 
-- I've been programming for 20 years. Before college (so long ago I didn't bother to put it on LinkedIn), 
-I started with a junior database job with the phone company (SBC, now AT&T)... that was before everyone knew Google would be the internet yellow pages. During that
-time I took a course in C, and I've been a fan of C and C++ ever since.
+- I've been programming for 20 years. Before college (so long ago I didn't bother to put it on LinkedIn), I started with a junior database developer role with the phone company (SBC, now AT&T)... that was before everyone knew Google would be the internet yellow pages. During that time I took a course in C, and I've been a fan of C and C++ ever since (although I didn't focus on C++ much until an independent project I took on in graduate school in 2009).
 
-- I did my PhD in Chemical Physics. Throughout my time in academia and teaching, I was always doing research that was computationally based, or taking on development work for the school while teaching.
+- I did my PhD in Chemical Physics. Throughout my time in academia and teaching, I was always doing computational theory research, or taking on development work for the school while teaching CS and math classes.
 
 <a href="https://github.com/jreich218"><img alt="GitHub" title="GitHub" height="30" width="30" src="images/github.jpg"></a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jason-reich/"><img alt="LinkedIn" title="LinkedIn" height="30" width="30" src="images/linkedin.jpg"></a>
