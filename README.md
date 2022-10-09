@@ -11,10 +11,10 @@ I'm a C++ developer interested in most domains that you typically find using the
 
 - I did my PhD in Chemical Physics. Throughout my time in academia and teaching, I was always doing computational theory research, or taking on development work for the school while teaching CS and math classes.
 
-<a href="https://github.com/jreich218"><img alt="GitHub" title="GitHub" height="30" width="30" src="images/github.jpg"></a> &nbsp;&nbsp;
+<a href="https://github.com/jason-m-reich"><img alt="GitHub" title="GitHub" height="30" width="30" src="images/github.jpg"></a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jason-reich/"><img alt="LinkedIn" title="LinkedIn" height="30" width="30" src="images/linkedin.jpg"></a>
 
 <!---
-jreich218/jreich218 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jason-m-reich/jason-m-reich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
