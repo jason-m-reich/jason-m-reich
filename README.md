@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Jason
 
 <a href="https://isocpp.org/"><img align="left" alt="C++ Logo" title="C++ Logo" width="30" height="34" src="images/cpp_logo.png"></a>
-I'm a C++ developer interested in most domains that you typically find using the language. Nonetheless, my background is in science and math, so I'm particularly interested in applications like robotics/IOT devices and AI.
+I'm a C++ developer interested in most domains that typically use the language. My background is in science and math, so I'm particularly interested in scientific applications, and complementary work like robotics and AI.
 
 - I'm currently the technical founder of [Topoleg](https://www.topoleg.com/). Happily, we were able to get a couple of patents on the printed circuit boards, firmware, and software as a service that we built.
 
